@@ -1,8 +1,9 @@
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+# CV #
+1. **Denis Belov**
+2. Email - *tepuohd@yandex.ru*
+3. A **young** and **full of energy** guy. I am full of enthusiasm and desire to learn a new profession. I gained knowledge about the internal and physical interactions of computers and various devices created on their basis. **Now I am determined to learn the logic and language of the *cyber world***.
+4. _In progess_
+5. _In progess_
+6. _In progess_
+7. Machine Engineer
+8. I recently got acquainted with the English language. My proficiency level is A1. Now I use the help of a translator, but I continue to study it.
