@@ -1,0 +1,40 @@
+section {
+    text-align: center;
+    margin: 20px;
+    max-width: 80%;
+    line-height:150%;
+    font-size: large;
+}
+.square {
+    float: left;
+    margin: 20px;
+}
+.square img {
+    width: auto;
+    height: 170px;
+}
+.background {
+
+}
+.square_2 {
+    position: absolute;
+    bottom: 150px;
+    left: 20px;
+}
+.address {
+    position: absolute;
+    bottom: 150px;
+    right: 20px;
+}
+body {
+    background-image: url(https://kartinkin.com/uploads/posts/2021-03/1616030580_47-p-fon-bez-risunka-51.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.link {
+    font: italic bold 24px Arial, sans-serif;
+    color: blueviolet;
+}
+h1 {
+    font-size: 5rem;
+}
