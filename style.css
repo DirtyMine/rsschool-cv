@@ -1,9 +1,5 @@
-section {
-    text-align: center;
-    margin: 20px;
-    max-width: 80%;
-    line-height:150%;
-    font-size: large;
+.skills {
+    float: left;
 }
 .square {
     float: left;
@@ -11,22 +7,20 @@ section {
 }
 .square img {
     width: auto;
-    height: 170px;
+    height: 200px;
 }
 .square_2 {
-    position: absolute;
-    bottom: 150px;
-    left: 20px;
+    float:left;
+   
 }
 .address {
-    position: absolute;
-    bottom: 150px;
-    right: 20px;
+    float: right;
 }
 body {
-    background-image: url(https://i.postimg.cc/66ZH2V6v/1616030580-47-p-fon-bez-risunka-51.jpg);
-    background-size: 100%;
+    background-image: url(https://i.ibb.co/NsPCCWz/kapli.jpg);
+
     background-repeat: no-repeat;
+    background-size: 120%;
 }
 .link {
     font: italic bold 24px Arial, sans-serif;
@@ -34,4 +28,14 @@ body {
 }
 h1 {
     font-size: 5rem;
+}
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+#gray-background {
+    background-color: #cccccc;
+    padding: 15px;
+    font-size: 10px;
+    float: right;
 }
